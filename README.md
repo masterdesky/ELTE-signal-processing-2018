@@ -1,1 +1,1 @@
-# ELTE_Jelfeldolgozas_2018
+# Signal processing 2018-2019/1 @ ELTE
